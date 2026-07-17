@@ -47,10 +47,10 @@ PDO/SDO communication and UDP-based telemetry.
 ## Current Development Areas
 
 - Advanced Embedded C and C++
-- FreeRTOS and real-time software architecture
-- CAN communication
+- FreeRTOS fundamentals and real-time software architecture
 - Firmware testing and verification
 - Motor control and sensor fusion
+- Embedded Linux development
 
 ## Contact
 
