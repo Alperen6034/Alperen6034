@@ -17,7 +17,7 @@ applications.
 - Interrupt-driven and real-time firmware
 - EtherCAT and CiA-402 servo control
 - Motor control and motion systems
-- Sensor calibration and state estimation
+- Sensor calibration 
 - Embedded Linux and Raspberry Pi
 - MATLAB/Simulink and Python
 - Git, CMake and debugging tools
